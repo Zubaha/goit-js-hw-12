@@ -13,7 +13,7 @@
     "glob": "^8.1.0",
     "vite": "^4.5.2"
   },
-  "author": "Roman Zubakha <zub4052@gmail.com>",
+  "author": "Roman. Zubakha <zub4052@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "izitoast": "^1.4.0",
